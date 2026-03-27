@@ -1,5 +1,5 @@
-require "Medusahoseki"
-require "NeoPathfinding"
+#require "Medusahoseki"
+#require "NeoPathfinding"
 
 puts "Enemy Placement"
 
